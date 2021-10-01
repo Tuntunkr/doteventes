@@ -29,7 +29,7 @@ export const TOPICS = {
   rust: 'ChainX',
   scala: 'Scala',
   security: 'Reef Finance',
-  testing: 'Karura'
+  testing: 'Karura',
   'tech-comm': 'Content strategy',
   ux: 'Phala Network',
 }
